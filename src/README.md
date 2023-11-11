@@ -1,2 +1,2 @@
 # Template
-The machine learning template here
+The Learning_AI template provided by AzureAI 
